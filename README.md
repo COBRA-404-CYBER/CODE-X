@@ -24,7 +24,7 @@ git clone https://github.com/COBRA-404-CYBER/CODE-X
 
 cd CODE-X
 
-python codeX.py
+python codex.py
 
 ```
 
